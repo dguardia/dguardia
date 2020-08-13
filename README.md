@@ -37,6 +37,13 @@ Then [personalize your new site](https://sourcethemes.com/academic/docs/get-star
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
 * **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
+## Hosted
+
+The site has been hosted with Netlify to take an advantage of the github profile (one stone ........)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b6343e5-44a7-4337-ac6b-6065ebe7d64f/deploy-status)](https://app.netlify.com/sites/davidguardia-personal-web/deploys)
+
+
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
