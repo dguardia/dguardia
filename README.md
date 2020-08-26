@@ -46,7 +46,7 @@ The site has been hosted with Netlify to take an advantage of the github profile
 
 ## License
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+Copyright 2017-present [George Cushen](https://davidguardia.com).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
